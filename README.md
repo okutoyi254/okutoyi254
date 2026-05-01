@@ -1,8 +1,8 @@
 # James Okutoyi
 
-**Backend Developer | Enterprise Software and Data Engineering Enthusiast | Distributed Systems Learner**  
+**Backend Developer | Enterprise Software and Data Engineering | Distributed Systems Learner**  
 
-I'm a 3rd-year IT student at **Masinde Muliro University of Science and Technology (MMUST)**. I build **robust backend systems, scalable APIs, and distributed enterprise applications** using Java and Spring Boot. Passionate about system design, cloud technologies, and solving real-world problems through software.
+ I build **robust backend systems, scalable APIs, and distributed enterprise applications** using Java and Spring Boot. Passionate about system design, cloud technologies, and solving real-world problems through software.
 
 ---
 
@@ -11,7 +11,7 @@ I'm a 3rd-year IT student at **Masinde Muliro University of Science and Technolo
 - Building **REST APIs and microservices**
 - Learning **Distributed Systems and Data Engineering**
 - Advanced **Data Structures & Algorithms**
-- Event-driven architecture & **Apache Kafka**
+  
 
 ---
 
@@ -32,6 +32,7 @@ I'm a 3rd-year IT student at **Masinde Muliro University of Science and Technolo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 ---
