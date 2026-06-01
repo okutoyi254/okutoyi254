@@ -82,6 +82,8 @@ Predicts student academic risk and provides interventions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okutoyi254&layout=compact&theme=tokyonight)
 
+![Profile views](https://komarev.com)
+
 ---
 
 ## Contact Me
