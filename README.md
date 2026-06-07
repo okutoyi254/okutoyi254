@@ -1,6 +1,6 @@
 # James Okutoyi
 
-**Backend Developer | Enterprise Software and Data Engineering | Distributed Systems Learner**  
+**Backend Engineer | Enterprise Software Engineering | Distributed Systems Architecture**  
 
  I build **robust backend systems, scalable APIs, and distributed enterprise applications** using Java and Spring Boot. Passionate about system design, cloud technologies, and solving real-world problems through software.
 
@@ -9,7 +9,7 @@
 ## Current Focus
 - Backend development with **Java & Spring Boot**
 - Building **REST APIs and microservices**
-- Learning **Distributed Systems and Data Engineering**
+- Learning **Distributed Systems and Distributed Transactions Management**
 - Advanced **Data Structures & Algorithms**
   
 
@@ -39,6 +39,18 @@
 
 ## Featured Projects
 
+### ElimuPredict – Student Performance Prediction
+**Tech:** Java, Spring Boot, REST APIs, Machine Learning  
+
+Predicts student academic risk and provides interventions:
+- Backend API with risk analysis
+- Data-driven recommendations for students
+- Integrates with educational analytics dashboards
+
+[GitHub Repo](https://github.com/okutoyi254/elimu_predict_backend)
+
+---
+
 ### Smart Classroom Attendance System
 **Tech:** Java, Spring Boot, MySQL, WebSocket (STOMP), Face++ API  
 
@@ -64,17 +76,6 @@ A distributed, event-driven backend system simulating real enterprise processing
 
 ---
 
-### ElimuPredict – Student Performance Prediction
-**Tech:** Java, Spring Boot, REST APIs, Machine Learning  
-
-Predicts student academic risk and provides interventions:
-- Backend API with risk analysis
-- Data-driven recommendations for students
-- Integrates with educational analytics dashboards
-
-[GitHub Repo](https://github.com/okutoyi254/elimu_predict_backend)
-
----
 
 ## GitHub Stats
 
@@ -82,13 +83,10 @@ Predicts student academic risk and provides interventions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okutoyi254&layout=compact&theme=tokyonight)
 
-![Profile views](https://komarev.com)
-
 ---
 
 ## Contact Me
 - Email: okutoyiJames01@gmail.com  
-- GitHub: [https://github.com/okutoyi254](https://github.com/okutoyi254)  
 - X: https://x.com/OkutoyiJemo
 ---
 
