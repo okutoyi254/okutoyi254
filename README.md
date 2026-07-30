@@ -20,6 +20,9 @@
 **Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Databases & Storage:**  
@@ -79,7 +82,7 @@ A distributed, event-driven backend system simulating real enterprise processing
 
 ## GitHub Stats
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=okutoyi254&show_icons=true&count_private=true&theme=tokyonight)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okutoyi254&show_icons=true&theme=tokyonight&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okutoyi254&layout=compact&theme=tokyonight)
 
